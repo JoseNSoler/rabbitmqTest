@@ -1,3 +1,5 @@
+Implementacion basica que escucha los puertos y en base a una peticion de mensaje, rabbit contiene el mensaje y lo guarda en queue
+
 
 1. Download and install ERlang http://erlang.org/download/otp_win64_22.3.exe
 2. Downlaod and install RabbitMQ https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.8.8/rabbitmq-server-3.8.8.exe
