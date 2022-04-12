@@ -1,8 +1,4 @@
-# springboot-rabbitmq-example
-How to use RabbitMQ with Publisher and Consumer Example
 
-Install RabbitMQ in windows :
------------------------------
 1. Download and install ERlang http://erlang.org/download/otp_win64_22.3.exe
 2. Downlaod and install RabbitMQ https://github.com/rabbitmq/rabbitmq-server/releases/download/v3.8.8/rabbitmq-server-3.8.8.exe
 3. Go to RabbitMQ Server install Directory C:\Program Files\RabbitMQ Server\rabbitmq_server-3.8.3\sbin
